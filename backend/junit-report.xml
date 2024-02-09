@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Validate Registration and Login functionality" errors="0" tests="9" failures="0" time="0.782" timestamp="2023-11-13T23:56:29">
+  <testcase classname="Validate Registration and Login functionality" name="register new user" time="0.132"></testcase>
+  <testcase classname="Validate Registration and Login functionality" name="login user" time="0.088"></testcase>
+  <testcase classname="Validate Registration and Login functionality" name="POST /article" time="0.169"></testcase>
+  <testcase classname="Validate Registration and Login functionality" name="GET /articles/:id" time="0.089"></testcase>
+  <testcase classname="Validate Registration and Login functionality" name="GET /articles" time="0.09"></testcase>
+  <testcase classname="Validate Registration and Login functionality" name="PUT /headline" time="0.091"></testcase>
+  <testcase classname="Validate Registration and Login functionality" name="GET /headline" time="0.011"></testcase>
+  <testcase classname="Validate Registration and Login functionality" name="PUT /logout" time="0.012"></testcase>
+  <testcase classname="Validate Registration and Login functionality" name="can not register with the same username" time="0.098"></testcase>
+</testsuite>
+</testsuites>
